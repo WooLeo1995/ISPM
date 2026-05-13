@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [],
+    "deny": [],
+    "ask": []
+  },
+  "enabledPlugins": {
+    "andrej-karpathy-skills@karpathy-skills": false,
+    "minimax-skills@minimax-skills": false,
+    "rust-analyzer-lsp@claude-plugins-official": false,
+    "superpowers@claude-plugins-official": false,
+    "termcanvas@termcanvas": false
+  }
+}
