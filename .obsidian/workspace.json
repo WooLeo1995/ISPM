@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/制定项目章程.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "制定项目章程"
+              "title": "CLAUDE"
             }
           }
         ],
@@ -204,7 +204,7 @@
       {
         "id": "2de6a0c1d45c3112",
         "type": "tabs",
-        "dimension": 59.19854280510018,
+        "dimension": 59.198542805100175,
         "children": [
           {
             "id": "b345f0228bbe8447",
@@ -237,6 +237,8 @@
   },
   "active": "56f5a67b4b40eced",
   "lastOpenFiles": [
+    "README.md",
+    "CLAUDE.md",
     "concepts/制定项目章程.md",
     "synthesis/PMBOK知识体系.md",
     "synthesis/高项备考重点.md",
@@ -261,8 +263,6 @@
     "sources/第13章.md",
     "sources/第12章.md",
     "sources/第11章.md",
-    "sources/第10章.md",
-    "sources/第09章.md",
     "sources",
     "_raw",
     "_archives",
