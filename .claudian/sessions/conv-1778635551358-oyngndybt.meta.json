@@ -1,23 +1,23 @@
 {
   "id": "conv-1778635551358-oyngndybt",
   "providerId": "claude",
-  "title": "请帮我配置这个项目的git地址 https://github",
-  "titleGenerationStatus": "pending",
+  "title": "配置Git仓库地址",
+  "titleGenerationStatus": "success",
   "createdAt": 1778635551360,
-  "updatedAt": 1778635864116,
-  "lastResponseAt": 1778635864116,
+  "updatedAt": 1778673653600,
+  "lastResponseAt": 1778673653600,
   "sessionId": "199a6407-68d5-4762-9c94-f2f7cdc105fe",
   "providerState": {
     "providerSessionId": "199a6407-68d5-4762-9c94-f2f7cdc105fe"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 5029,
+    "inputTokens": 0,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 30336,
+    "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 35365,
-    "percentage": 18,
+    "contextTokens": 0,
+    "percentage": 0,
     "contextWindowIsAuthoritative": true
   }
 }

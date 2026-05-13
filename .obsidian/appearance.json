@@ -1,4 +1,4 @@
 {
-  "cssTheme": "Velocity",
-  "accentColor": "#9a1bee"
+  "baseFontSize": 16,
+  "cssTheme": "Velocity"
 }
