@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "2de6a0c1d45c3112",
@@ -235,10 +235,10 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "56f5a67b4b40eced",
+  "active": "d4f0ef998f1f0071",
   "lastOpenFiles": [
-    "README.md",
     "CLAUDE.md",
+    "README.md",
     "concepts/制定项目章程.md",
     "synthesis/PMBOK知识体系.md",
     "synthesis/高项备考重点.md",
