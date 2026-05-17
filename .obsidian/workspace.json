@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "40917005ef3a36a5",
+        "id": "a1594752618a0fad",
         "type": "tabs",
         "children": [
           {
-            "id": "46f1ae914b7138f3",
+            "id": "9dc705842cf5e064",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synthesis/PMBOK知识体系.md",
-                "mode": "source",
+                "file": "synthesis/高项备考重点.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PMBOK知识体系"
+              "title": "高项备考重点"
             }
           },
           {
-            "id": "df4510811af7099d",
+            "id": "c9515a9ecb61e63a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "sources/第19章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "第19章"
             }
           }
         ],
@@ -170,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "sources/第19章.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "第19章 的大纲"
             }
           },
           {
@@ -235,13 +236,14 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "d4f0ef998f1f0071",
+  "active": "c9515a9ecb61e63a",
   "lastOpenFiles": [
+    "sources/第19章.md",
+    "synthesis/高项备考重点.md",
     "CLAUDE.md",
     "README.md",
     "concepts/制定项目章程.md",
     "synthesis/PMBOK知识体系.md",
-    "synthesis/高项备考重点.md",
     "concepts/WBS工作分解结构.md",
     "concepts/信息系统管理成熟度.md",
     "concepts/需求管理与范围控制.md",
@@ -254,7 +256,6 @@
     "sources/第22章.md",
     "sources/第21章.md",
     "sources/第20章.md",
-    "sources/第19章.md",
     "sources/第18章.md",
     "sources/第17章.md",
     "sources/第16章.md",
